@@ -1,0 +1,39 @@
+###
+POST http://localhost:3000/cliente
+Content-Type: application/json
+
+{
+    "nome": "Tobias",
+    "email": "Tobias@gmail.com",
+    "senha": "DEUSéfiel3012",
+    "cpf": "12345678901",
+    "endereco": "rua",
+    "telefone": "123333344"
+}
+
+###
+POST http://localhost:3000/cliente
+Content-Type: application/json
+
+{
+    "nome": "Jonas",
+    "email": "Jonas@gmail.com",
+    "senha": "tenhoHIVALADEEN",
+    "cpf": "12345678901",
+    "endereco": "rua",
+    "telefone": "123333344"
+}
+
+###
+POST http://localhost:3000/cliente
+Content-Type: application/json
+
+{
+    "nome": "Daval",
+    "email": "Daval@gmail.com",
+    "senha": "VoufazerUranioParaUsoMedicinal",
+    "cpf": "12345678901",
+    "endereco": "rua",
+    "telefone": "123333344"
+}
+
